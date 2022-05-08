@@ -756,7 +756,6 @@ PRODUCT_PACKAGES += \
     SoterService \
     TimeService \
     com.qualcomm.qti.gpudrivers.lahaina.api30 \
-    gpu_profiling_vulkan_layer \
     PowerOffAlarm \
     QtiTelephonyService \
     WfdService \
